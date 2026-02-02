@@ -53,5 +53,44 @@ I enjoy:
 This lab replicates **SOC + IR workflows** using only native Linux tools and Bash — designed for low-RAM environments and deep understanding.
 
 ---
+---
 
+## 🧬 MITRE ATT&CK Experience
+- T1110 – Brute Force
+- T1078 – Valid Accounts
+- T1548 – Privilege Escalation
+- T1105 – Ingress Tool Transfer
+- T1136 – Account Creation
+
+---
+
+## 📜 Certifications (In Progress)
+- CompTIA A+
+- Network+
+- Security+
+
+---
+
+## 🛠️ Tools I Work With
+- Bash
+- journalctl
+- OpenSSH
+- UFW
+- auditd
+- cron
+- Git & GitHub
+- Linux Mint / Ubuntu
+
+---
+
+## 🎯 Goals
+- SOC Analyst (Tier 1 → Tier 2)
+- Detection Engineering
+- Incident Response
+- Blue Team Operations
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/urban_potato
 
