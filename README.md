@@ -106,3 +106,14 @@ This project was executed on a real Linux system with continuous monitoring enab
 - Ongoing scheduled monitoring
 
 Screenshots and logs included in repository for verification.
+soc
+siem
+incident-response
+linux-security
+bash
+ssh
+log-analysis
+blue-team
+threat-detection
+mitre-attck
+cybersecurity
