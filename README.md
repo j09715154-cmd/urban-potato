@@ -94,3 +94,15 @@ This lab replicates **SOC + IR workflows** using only native Linux tools and Bas
 ## 📫 Connect
 - GitHub: https://github.com/urban_potato
 
+## 🖥️ Live SOC Lab Evidence
+
+This project was executed on a real Linux system with continuous monitoring enabled via cron.
+
+**Demonstrated capabilities:**
+- Real-time SSH brute-force detection
+- Automated firewall containment
+- Post-compromise activity detection
+- Incident timeline reconstruction
+- Ongoing scheduled monitoring
+
+Screenshots and logs included in repository for verification.
