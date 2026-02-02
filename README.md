@@ -37,7 +37,7 @@ I enjoy:
 ## 🚨 Featured Project
 
 ### 🧠 Linux Micro-SIEM & Incident Response Lab
-🔗 **Repo:** https://github.com/YOUR_USERNAME/linux-micro-siem-ir-lab
+🔗 **Repo:** https://github.com/urban-potato/linux-micro-siem-ir-lab
 
 **What it does:**
 - Detects SSH brute-force attacks
